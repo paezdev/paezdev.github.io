@@ -1,14 +1,14 @@
-name = "Richard hanrick!"
+name = "Jean C. Páez R."
 rol = "Flutter Developer"
-email = "richard@example.com"
-phone = "+1 (213) 352-2795"
-birthday = "June 26, 1996"
-location = "Sacramento, California, USA"
-avatar = "./config/assets/avatars/my-avatar.png"
-username = "richardhanrick" # <-- github user name
-googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd" 
+email = "paezdev@gmail.com"
+phone = ""
+birthday = ""
+location = "Caucasia - Antioquia, Colombia"
+avatar = "./config/assets/avatars/avatar-1.png"
+username = "paezdev" # <-- github user name
+googlemaps = "<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Caucasia-Antioquia&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://gachanymph.com/">Gacha Nymph APK</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:400px;}.gmap_iframe {height:400px!important;}</style></div>" 
 presentation = """
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a trainee software developer, from Colombia, I'm studying Dart and flutter and in web development, I'm taking the route to be a backend. I enjoy solving complex problems.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My job is to build websites and mobile applications so that it is functional and easy to use, but at the same time attractive. In addition, I give it a personal touch and make sure my work is eye-catching and user-friendly. My goal, apart from being functional, is to provide an excellent user experience.
 """
